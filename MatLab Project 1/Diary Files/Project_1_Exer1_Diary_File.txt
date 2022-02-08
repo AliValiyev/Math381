@@ -1,0 +1,3690 @@
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+tic
+demoscr
+{Unrecognized function or variable 'demoscr'.
+} 
+tic;
+demoscript;
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+tic
+demoscrit
+{Unrecognized function or variable 'demoscrit'.
+} 
+toc
+Elapsed time is 19.827188 seconds.
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+tic
+edit demoscript.m
+pwd
+
+ans =
+
+    'C:\Users\husey\Desktop\MatlLab\Math381'
+
+dbstop if error
+dbstop if naninf
+demoscript.m
+{Unable to resolve the name demoscript.m.
+} 
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+NaN/Inf breakpoint hit for demoscript.m on line 59.
+<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)">59  </a>bad=1/(x-1)
+opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)">59  </a>bad=1/(x-1)
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)">59  </a>bad=1/(x-1)
+opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)">59  </a>bad=1/(x-1)
+opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)
+opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+
+Result =
+
+   -49
+
+
+Result =
+
+   -49
+
+
+Result =
+
+  -49.5000
+
+
+Result =
+
+  -49.5000
+
+
+Result =
+
+  -49.6667
+
+
+Result =
+
+  -49.6667
+
+
+Result =
+
+  -49.7500
+
+
+Result =
+
+  -49.7500
+
+
+Result =
+
+  -49.8000
+
+
+Result =
+
+  -49.8000
+
+
+Result =
+
+  -49.8333
+
+
+Result =
+
+  -49.8333
+
+
+Result =
+
+  -49.8571
+
+
+Result =
+
+  -49.8571
+
+
+Result =
+
+  -49.8750
+
+
+Result =
+
+  -49.8750
+
+
+Result =
+
+  -49.8889
+
+
+Result =
+
+  -49.8889
+
+
+Result =
+
+  -49.9000
+
+
+Result =
+
+  -49.9000
+
+
+Result =
+
+  -49.9091
+
+
+Result =
+
+  -49.9091
+
+
+Result =
+
+  -49.9167
+
+
+Result =
+
+  -49.9167
+
+
+Result =
+
+  -49.9231
+
+
+Result =
+
+  -49.9231
+
+
+Result =
+
+  -49.9286
+
+
+Result =
+
+  -49.9286
+
+
+Result =
+
+  -49.9333
+
+
+Result =
+
+  -49.9333
+
+
+Result =
+
+  -49.9375
+
+
+Result =
+
+  -49.9375
+
+
+Result =
+
+  -49.9412
+
+
+Result =
+
+  -49.9412
+
+
+Result =
+
+  -49.9444
+
+
+Result =
+
+  -49.9444
+
+
+Result =
+
+  -49.9474
+
+
+Result =
+
+  -49.9474
+
+
+Result =
+
+  -49.9500
+
+
+Result =
+
+  -49.9500
+
+
+Result =
+
+  -49.9524
+
+
+Result =
+
+  -49.9524
+
+
+Result =
+
+  -49.9545
+
+
+Result =
+
+  -49.9545
+
+
+Result =
+
+  -49.9565
+
+
+Result =
+
+  -49.9565
+
+
+Result =
+
+  -49.9583
+
+
+Result =
+
+  -49.9583
+
+
+Result =
+
+  -49.9600
+
+
+Result =
+
+  -49.9600
+
+
+Result =
+
+  -49.9615
+
+
+Result =
+
+  -49.9615
+
+
+Result =
+
+  -49.9630
+
+
+Result =
+
+  -49.9630
+
+
+Result =
+
+  -49.9643
+
+
+Result =
+
+  -49.9643
+
+
+Result =
+
+  -49.9655
+
+
+Result =
+
+  -49.9655
+
+
+Result =
+
+  -49.9667
+
+
+Result =
+
+  -49.9667
+
+
+Result =
+
+  -49.9677
+
+
+Result =
+
+  -49.9677
+
+
+Result =
+
+  -49.9688
+
+
+Result =
+
+  -49.9688
+
+
+Result =
+
+  -49.9697
+
+
+Result =
+
+  -49.9697
+
+
+Result =
+
+  -49.9706
+
+
+Result =
+
+  -49.9706
+
+
+Result =
+
+  -49.9714
+
+
+Result =
+
+  -49.9714
+
+
+Result =
+
+  -49.9722
+
+
+Result =
+
+  -49.9722
+
+
+Result =
+
+  -49.9730
+
+
+Result =
+
+  -49.9730
+
+
+Result =
+
+  -49.9737
+
+
+Result =
+
+  -49.9737
+
+
+Result =
+
+  -49.9744
+
+
+Result =
+
+  -49.9744
+
+
+Result =
+
+  -49.9750
+
+
+Result =
+
+  -49.9750
+
+
+Result =
+
+  -49.9756
+
+
+Result =
+
+  -49.9756
+
+
+Result =
+
+  -49.9762
+
+
+Result =
+
+  -49.9762
+
+
+Result =
+
+  -49.9767
+
+
+Result =
+
+  -49.9767
+
+
+Result =
+
+  -49.9773
+
+
+Result =
+
+  -49.9773
+
+
+Result =
+
+  -49.9778
+
+
+Result =
+
+  -49.9778
+
+
+Result =
+
+  -49.9783
+
+
+Result =
+
+  -49.9783
+
+
+Result =
+
+  -49.9787
+
+
+Result =
+
+  -49.9787
+
+
+Result =
+
+  -49.9792
+
+
+Result =
+
+  -49.9792
+
+
+Result =
+
+  -49.9796
+
+
+Result =
+
+  -49.9796
+
+
+Result =
+
+  -49.9800
+
+
+Result =
+
+  -49.9800
+
+
+Result =
+
+  -49.9804
+
+
+Result =
+
+  -49.9804
+
+
+Result =
+
+  -49.9808
+
+
+Result =
+
+  -49.9808
+
+
+Result =
+
+  -49.9811
+
+
+Result =
+
+  -49.9811
+
+
+Result =
+
+  -49.9815
+
+
+Result =
+
+  -49.9815
+
+
+Result =
+
+  -49.9818
+
+
+Result =
+
+  -49.9818
+
+
+Result =
+
+  -49.9821
+
+
+Result =
+
+  -49.9821
+
+
+Result =
+
+  -49.9825
+
+
+Result =
+
+  -49.9825
+
+
+Result =
+
+  -49.9828
+
+
+Result =
+
+  -49.9828
+
+
+Result =
+
+  -49.9831
+
+
+Result =
+
+  -49.9831
+
+
+Result =
+
+  -49.9833
+
+
+Result =
+
+  -49.9833
+
+
+Result =
+
+  -49.9836
+
+
+Result =
+
+  -49.9836
+
+
+Result =
+
+  -49.9839
+
+
+Result =
+
+  -49.9839
+
+
+Result =
+
+  -49.9841
+
+
+Result =
+
+  -49.9841
+
+
+Result =
+
+  -49.9844
+
+
+Result =
+
+  -49.9844
+
+
+Result =
+
+  -49.9846
+
+
+Result =
+
+  -49.9846
+
+
+Result =
+
+  -49.9848
+
+
+Result =
+
+  -49.9848
+
+
+Result =
+
+  -49.9851
+
+
+Result =
+
+  -49.9851
+
+
+Result =
+
+  -49.9853
+
+
+Result =
+
+  -49.9853
+
+
+Result =
+
+  -49.9855
+
+
+Result =
+
+  -49.9855
+
+
+Result =
+
+  -49.9857
+
+
+Result =
+
+  -49.9857
+
+
+Result =
+
+  -49.9859
+
+
+Result =
+
+  -49.9859
+
+
+Result =
+
+  -49.9861
+
+
+Result =
+
+  -49.9861
+
+
+Result =
+
+  -49.9863
+
+
+Result =
+
+  -49.9863
+
+
+Result =
+
+  -49.9865
+
+
+Result =
+
+  -49.9865
+
+
+Result =
+
+  -49.9867
+
+
+Result =
+
+  -49.9867
+
+
+Result =
+
+  -49.9868
+
+
+Result =
+
+  -49.9868
+
+
+Result =
+
+  -49.9870
+
+
+Result =
+
+  -49.9870
+
+
+Result =
+
+  -49.9872
+
+
+Result =
+
+  -49.9872
+
+
+Result =
+
+  -49.9873
+
+
+Result =
+
+  -49.9873
+
+
+Result =
+
+  -49.9875
+
+
+Result =
+
+  -49.9875
+
+
+Result =
+
+  -49.9877
+
+
+Result =
+
+  -49.9877
+
+
+Result =
+
+  -49.9878
+
+
+Result =
+
+  -49.9878
+
+
+Result =
+
+  -49.9880
+
+
+Result =
+
+  -49.9880
+
+
+Result =
+
+  -49.9881
+
+
+Result =
+
+  -49.9881
+
+
+Result =
+
+  -49.9882
+
+
+Result =
+
+  -49.9882
+
+
+Result =
+
+  -49.9884
+
+
+Result =
+
+  -49.9884
+
+
+Result =
+
+  -49.9885
+
+
+Result =
+
+  -49.9885
+
+
+Result =
+
+  -49.9886
+
+
+Result =
+
+  -49.9886
+
+
+Result =
+
+  -49.9888
+
+
+Result =
+
+  -49.9888
+
+
+Result =
+
+  -49.9889
+
+
+Result =
+
+  -49.9889
+
+
+Result =
+
+  -49.9890
+
+
+Result =
+
+  -49.9890
+
+
+Result =
+
+  -49.9891
+
+
+Result =
+
+  -49.9891
+
+
+Result =
+
+  -49.9892
+
+
+Result =
+
+  -49.9892
+
+
+Result =
+
+  -49.9894
+
+
+Result =
+
+  -49.9894
+
+
+Result =
+
+  -49.9895
+
+
+Result =
+
+  -49.9895
+
+
+Result =
+
+  -49.9896
+
+
+Result =
+
+  -49.9896
+
+
+Result =
+
+  -49.9897
+
+
+Result =
+
+  -49.9897
+
+
+Result =
+
+  -49.9898
+
+
+Result =
+
+  -49.9898
+
+
+Result =
+
+  -49.9899
+
+
+Result =
+
+  -49.9899
+
+
+Result =
+
+  -49.9900
+
+
+Result =
+
+  -49.9900
+
+if system_dependent('IsDebugMode')==1, dbquit all; end
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+
+Result =
+
+   -49
+
+
+Result =
+
+   -49
+
+
+Result =
+
+  -49.5000
+
+
+Result =
+
+  -49.5000
+
+
+Result =
+
+  -49.6667
+
+
+Result =
+
+  -49.6667
+
+
+Result =
+
+  -49.7500
+
+
+Result =
+
+  -49.7500
+
+
+Result =
+
+  -49.8000
+
+
+Result =
+
+  -49.8000
+
+
+Result =
+
+  -49.8333
+
+
+Result =
+
+  -49.8333
+
+
+Result =
+
+  -49.8571
+
+
+Result =
+
+  -49.8571
+
+
+Result =
+
+  -49.8750
+
+
+Result =
+
+  -49.8750
+
+
+Result =
+
+  -49.8889
+
+
+Result =
+
+  -49.8889
+
+
+Result =
+
+  -49.9000
+
+
+Result =
+
+  -49.9000
+
+
+Result =
+
+  -49.9091
+
+
+Result =
+
+  -49.9091
+
+
+Result =
+
+  -49.9167
+
+
+Result =
+
+  -49.9167
+
+
+Result =
+
+  -49.9231
+
+
+Result =
+
+  -49.9231
+
+
+Result =
+
+  -49.9286
+
+
+Result =
+
+  -49.9286
+
+
+Result =
+
+  -49.9333
+
+
+Result =
+
+  -49.9333
+
+
+Result =
+
+  -49.9375
+
+
+Result =
+
+  -49.9375
+
+
+Result =
+
+  -49.9412
+
+
+Result =
+
+  -49.9412
+
+
+Result =
+
+  -49.9444
+
+
+Result =
+
+  -49.9444
+
+
+Result =
+
+  -49.9474
+
+
+Result =
+
+  -49.9474
+
+
+Result =
+
+  -49.9500
+
+
+Result =
+
+  -49.9500
+
+
+Result =
+
+  -49.9524
+
+
+Result =
+
+  -49.9524
+
+
+Result =
+
+  -49.9545
+
+
+Result =
+
+  -49.9545
+
+
+Result =
+
+  -49.9565
+
+
+Result =
+
+  -49.9565
+
+
+Result =
+
+  -49.9583
+
+
+Result =
+
+  -49.9583
+
+
+Result =
+
+  -49.9600
+
+
+Result =
+
+  -49.9600
+
+
+Result =
+
+  -49.9615
+
+
+Result =
+
+  -49.9615
+
+
+Result =
+
+  -49.9630
+
+
+Result =
+
+  -49.9630
+
+
+Result =
+
+  -49.9643
+
+
+Result =
+
+  -49.9643
+
+
+Result =
+
+  -49.9655
+
+
+Result =
+
+  -49.9655
+
+
+Result =
+
+  -49.9667
+
+
+Result =
+
+  -49.9667
+
+
+Result =
+
+  -49.9677
+
+
+Result =
+
+  -49.9677
+
+
+Result =
+
+  -49.9688
+
+
+Result =
+
+  -49.9688
+
+
+Result =
+
+  -49.9697
+
+
+Result =
+
+  -49.9697
+
+
+Result =
+
+  -49.9706
+
+
+Result =
+
+  -49.9706
+
+
+Result =
+
+  -49.9714
+
+
+Result =
+
+  -49.9714
+
+
+Result =
+
+  -49.9722
+
+
+Result =
+
+  -49.9722
+
+
+Result =
+
+  -49.9730
+
+
+Result =
+
+  -49.9730
+
+
+Result =
+
+  -49.9737
+
+
+Result =
+
+  -49.9737
+
+
+Result =
+
+  -49.9744
+
+
+Result =
+
+  -49.9744
+
+
+Result =
+
+  -49.9750
+
+
+Result =
+
+  -49.9750
+
+
+Result =
+
+  -49.9756
+
+
+Result =
+
+  -49.9756
+
+
+Result =
+
+  -49.9762
+
+
+Result =
+
+  -49.9762
+
+
+Result =
+
+  -49.9767
+
+
+Result =
+
+  -49.9767
+
+
+Result =
+
+  -49.9773
+
+
+Result =
+
+  -49.9773
+
+
+Result =
+
+  -49.9778
+
+
+Result =
+
+  -49.9778
+
+
+Result =
+
+  -49.9783
+
+
+Result =
+
+  -49.9783
+
+
+Result =
+
+  -49.9787
+
+
+Result =
+
+  -49.9787
+
+
+Result =
+
+  -49.9792
+
+
+Result =
+
+  -49.9792
+
+
+Result =
+
+  -49.9796
+
+
+Result =
+
+  -49.9796
+
+
+Result =
+
+  -49.9800
+
+
+Result =
+
+  -49.9800
+
+
+Result =
+
+  -49.9804
+
+
+Result =
+
+  -49.9804
+
+
+Result =
+
+  -49.9808
+
+
+Result =
+
+  -49.9808
+
+
+Result =
+
+  -49.9811
+
+
+Result =
+
+  -49.9811
+
+
+Result =
+
+  -49.9815
+
+
+Result =
+
+  -49.9815
+
+
+Result =
+
+  -49.9818
+
+
+Result =
+
+  -49.9818
+
+
+Result =
+
+  -49.9821
+
+
+Result =
+
+  -49.9821
+
+
+Result =
+
+  -49.9825
+
+
+Result =
+
+  -49.9825
+
+
+Result =
+
+  -49.9828
+
+
+Result =
+
+  -49.9828
+
+
+Result =
+
+  -49.9831
+
+
+Result =
+
+  -49.9831
+
+
+Result =
+
+  -49.9833
+
+
+Result =
+
+  -49.9833
+
+
+Result =
+
+  -49.9836
+
+
+Result =
+
+  -49.9836
+
+
+Result =
+
+  -49.9839
+
+
+Result =
+
+  -49.9839
+
+
+Result =
+
+  -49.9841
+
+
+Result =
+
+  -49.9841
+
+
+Result =
+
+  -49.9844
+
+
+Result =
+
+  -49.9844
+
+
+Result =
+
+  -49.9846
+
+
+Result =
+
+  -49.9846
+
+
+Result =
+
+  -49.9848
+
+
+Result =
+
+  -49.9848
+
+
+Result =
+
+  -49.9851
+
+
+Result =
+
+  -49.9851
+
+
+Result =
+
+  -49.9853
+
+
+Result =
+
+  -49.9853
+
+
+Result =
+
+  -49.9855
+
+
+Result =
+
+  -49.9855
+
+
+Result =
+
+  -49.9857
+
+
+Result =
+
+  -49.9857
+
+
+Result =
+
+  -49.9859
+
+
+Result =
+
+  -49.9859
+
+
+Result =
+
+  -49.9861
+
+
+Result =
+
+  -49.9861
+
+
+Result =
+
+  -49.9863
+
+
+Result =
+
+  -49.9863
+
+
+Result =
+
+  -49.9865
+
+
+Result =
+
+  -49.9865
+
+
+Result =
+
+  -49.9867
+
+
+Result =
+
+  -49.9867
+
+
+Result =
+
+  -49.9868
+
+
+Result =
+
+  -49.9868
+
+
+Result =
+
+  -49.9870
+
+
+Result =
+
+  -49.9870
+
+
+Result =
+
+  -49.9872
+
+
+Result =
+
+  -49.9872
+
+
+Result =
+
+  -49.9873
+
+
+Result =
+
+  -49.9873
+
+
+Result =
+
+  -49.9875
+
+
+Result =
+
+  -49.9875
+
+
+Result =
+
+  -49.9877
+
+
+Result =
+
+  -49.9877
+
+
+Result =
+
+  -49.9878
+
+
+Result =
+
+  -49.9878
+
+
+Result =
+
+  -49.9880
+
+
+Result =
+
+  -49.9880
+
+
+Result =
+
+  -49.9881
+
+
+Result =
+
+  -49.9881
+
+
+Result =
+
+  -49.9882
+
+
+Result =
+
+  -49.9882
+
+
+Result =
+
+  -49.9884
+
+
+Result =
+
+  -49.9884
+
+
+Result =
+
+  -49.9885
+
+
+Result =
+
+  -49.9885
+
+
+Result =
+
+  -49.9886
+
+
+Result =
+
+  -49.9886
+
+
+Result =
+
+  -49.9888
+
+
+Result =
+
+  -49.9888
+
+
+Result =
+
+  -49.9889
+
+
+Result =
+
+  -49.9889
+
+
+Result =
+
+  -49.9890
+
+
+Result =
+
+  -49.9890
+
+
+Result =
+
+  -49.9891
+
+
+Result =
+
+  -49.9891
+
+
+Result =
+
+  -49.9892
+
+
+Result =
+
+  -49.9892
+
+
+Result =
+
+  -49.9894
+
+
+Result =
+
+  -49.9894
+
+
+Result =
+
+  -49.9895
+
+
+Result =
+
+  -49.9895
+
+
+Result =
+
+  -49.9896
+
+
+Result =
+
+  -49.9896
+
+
+Result =
+
+  -49.9897
+
+
+Result =
+
+  -49.9897
+
+
+Result =
+
+  -49.9898
+
+
+Result =
+
+  -49.9898
+
+
+Result =
+
+  -49.9899
+
+
+Result =
+
+  -49.9899
+
+
+Result =
+
+  -49.9900
+
+
+Result =
+
+  -49.9900
+
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+NaN/Inf breakpoint hit for demoscript.m on line 59.
+<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',59,1)">59  </a>bad = 1/(x-1)
+if system_dependent('IsDebugMode')==1, dbquit all; end
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+
+Result =
+
+     9
+
+
+Result =
+
+    0.1111
+
+
+Result =
+
+     8
+
+
+Result =
+
+    0.1250
+
+
+Result =
+
+     7
+
+
+Result =
+
+    0.1429
+
+
+Result =
+
+     6
+
+
+Result =
+
+    0.1667
+
+
+Result =
+
+     5
+
+
+Result =
+
+    0.2000
+
+
+Result =
+
+     4
+
+
+Result =
+
+    0.2500
+
+
+Result =
+
+     3
+
+
+Result =
+
+    0.3333
+
+
+Result =
+
+     2
+
+
+Result =
+
+    0.5000
+
+
+Result =
+
+     1
+
+
+Result =
+
+     1
+
+
+Result =
+
+     0
+
+NaN/Inf breakpoint hit for demoscript.m on line 63.
+<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',63,1)">63  </a>    Result = 1/Result
+if system_dependent('IsDebugMode')==1, dbquit all; end
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+
+Result =
+
+     9
+
+
+Result =
+
+    0.1111
+
+
+Result =
+
+     8
+
+
+Result =
+
+    0.1250
+
+
+Result =
+
+     7
+
+
+Result =
+
+    0.1429
+
+
+Result =
+
+     6
+
+
+Result =
+
+    0.1667
+
+
+Result =
+
+     5
+
+
+Result =
+
+    0.2000
+
+
+Result =
+
+     4
+
+
+Result =
+
+    0.2500
+
+
+Result =
+
+     3
+
+
+Result =
+
+    0.3333
+
+
+Result =
+
+     2
+
+
+Result =
+
+    0.5000
+
+
+Result =
+
+     1
+
+
+Result =
+
+     1
+
+
+Result =
+
+     0
+
+
+Result =
+
+    -1
+
+
+Result =
+
+    -1
+
+
+ans =
+
+   -12
+
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+
+Index =
+
+     1
+
+
+Result =
+
+     9
+
+
+Result =
+
+    0.1111
+
+
+Index =
+
+     2
+
+
+Result =
+
+     8
+
+
+Result =
+
+    0.1250
+
+
+Index =
+
+     3
+
+
+Result =
+
+     7
+
+
+Result =
+
+    0.1429
+
+
+Index =
+
+     4
+
+
+Result =
+
+     6
+
+
+Result =
+
+    0.1667
+
+
+Index =
+
+     5
+
+
+Result =
+
+     5
+
+
+Result =
+
+    0.2000
+
+
+Index =
+
+     6
+
+
+Result =
+
+     4
+
+
+Result =
+
+    0.2500
+
+
+Index =
+
+     7
+
+
+Result =
+
+     3
+
+
+Result =
+
+    0.3333
+
+
+Index =
+
+     8
+
+
+Result =
+
+     2
+
+
+Result =
+
+    0.5000
+
+
+Index =
+
+     9
+
+
+Result =
+
+     1
+
+
+Result =
+
+     1
+
+
+Index =
+
+    10
+
+
+Result =
+
+     0
+
+
+Index =
+
+    11
+
+
+Result =
+
+    -1
+
+
+Result =
+
+    -1
+
+
+ans =
+
+  -10.9091
+
+demoscript
+
+x =
+
+    1.3000
+
+
+xsquared =
+
+    1.6900
+
+
+p =
+
+    1.8540
+
+
+ans =
+
+    3.1416
+
+
+adjacent_over_hypotenuse =
+
+    0.7071
+
+
+z =
+
+   3.0000 + 2.0000i
+
+
+zsquared =
+
+   5.0000 +12.0000i
+
+
+logz =
+
+   1.2825 + 0.5880i
+
+
+ans =
+
+    'The following is a list of cube roots.'
+
+
+cuberoots =
+
+    1.0000    1.2599    1.4422    1.5874    1.7100    1.8171    1.9129    2.0000    2.0801    2.1544
+
+
+Index =
+
+     1
+
+
+Result =
+
+     9
+
+
+Result =
+
+    0.1111
+
+
+Index =
+
+     2
+
+
+Result =
+
+     8
+
+
+Result =
+
+    0.1250
+
+
+Index =
+
+     3
+
+
+Result =
+
+     7
+
+
+Result =
+
+    0.1429
+
+
+Index =
+
+     4
+
+
+Result =
+
+     6
+
+
+Result =
+
+    0.1667
+
+
+Index =
+
+     5
+
+
+Result =
+
+     5
+
+
+Result =
+
+    0.2000
+
+
+Index =
+
+     6
+
+
+Result =
+
+     4
+
+
+Result =
+
+    0.2500
+
+
+Index =
+
+     7
+
+
+Result =
+
+     3
+
+
+Result =
+
+    0.3333
+
+
+Index =
+
+     8
+
+
+Result =
+
+     2
+
+
+Result =
+
+    0.5000
+
+
+Index =
+
+     9
+
+
+Result =
+
+     1
+
+
+Result =
+
+     1
+
+
+Index =
+
+    10
+
+
+Result =
+
+     0
+
+
+Index =
+
+    11
+
+
+Result =
+
+    -1
+
+
+Result =
+
+    -1
+
+NaN/Inf breakpoint hit for demoscript.m on line 70.
+<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\demoscript.m',70,1)">70  </a>1/(Index-11)
+dbquit
+dbclear
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dbclear')" style="font-weight:bold">dbclear</a>
+Not enough input arguments.
+} 
+db clear
+{'db' requires <a href="matlab:matlab.internal.addons.launchers.showExplorer('ErrorRecovery', 'identifier', 'SG', 'focused', 'db');">Signal Processing Toolbox</a>.
+} 
+dbclear all
+clear
+f(8)
+{<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',1,14)">File: f.m Line: 1 Column: 14</a>
+Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched delimiters.
+} 
+f(0)
+{<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',1,14)">File: f.m Line: 1 Column: 14</a>
+Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched delimiters.
+} 
+f(0)
+{<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',2,4)">File: f.m Line: 2 Column: 4</a>
+Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched delimiters.
+} 
+f(0)
+{<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',2,8)">File: f.m Line: 2 Column: 8</a>
+Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched delimiters.
+} 
+f(0)
+{<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',2,8)">File: f.m Line: 2 Column: 8</a>
+Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched delimiters.
+} 
+help
+--- help for <strong>f</strong> ---
+
+<strong>f</strong> is a function.
+    x = <strong>f</strong>(x)
+
+f(0)
+
+x =
+
+     3
+
+
+ans =
+
+     3
+
+f(0);df(0)
+
+y =
+
+     3
+
+
+dy =
+
+    -2
+
+
+ans =
+
+    -2
+
+format long
+pi
+
+ans =
+
+   3.141592653589793
+
+format short
+pi
+
+ans =
+
+    3.1416
+
+format long
+e
+{Unrecognized function or variable 'e'.
+} 
+exp(0)
+
+ans =
+
+     1
+
+exp(1)
+
+ans =
+
+   2.718281828459046
+
+format short
+exp(1)
+
+ans =
+
+    2.7183
+
+3*pi/7
+
+ans =
+
+    1.3464
+
+help cos
+ <strong>cos</strong>    Cosine of argument in radians.
+    <strong>cos</strong>(X) is the cosine of the elements of X. 
+ 
+    See also <a href="matlab:help acos -displayBanner">acos</a>, <a href="matlab:help cosd -displayBanner">cosd</a>, <a href="matlab:help cospi -displayBanner">cospi</a>.
+
+    <a href="matlab:doc cos">Documentation for cos</a>
+
+cos(0)
+
+ans =
+
+     1
+
+newton(1,20,f,df)
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('f', 'C:\Users\husey\Desktop\MatlLab\Math381\f.m', 2)" style="font-weight:bold">f</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',2,0)">line 2</a>)
+y = (2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+} 
+newton(1,20,f,df)
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('f', 'C:\Users\husey\Desktop\MatlLab\Math381\f.m', 2)" style="font-weight:bold">f</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',2,0)">line 2</a>)
+y = (2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+} 
+newton(1,20,f,df)
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('f', 'C:\Users\husey\Desktop\MatlLab\Math381\f.m', 2)" style="font-weight:bold">f</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\f.m',2,0)">line 2</a>)
+y = (2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+} 
+newton(1,20,f,df)
+
+y =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+
+
+dy =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(10*x^4)+(4*x^3)+(15*x^2)+(-2)
+
+{Unrecognized function or variable 'newton'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newton', 'C:\Users\husey\Desktop\MatlLab\Math381\newton.m', 10)" style="font-weight:bold">newton</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\newton.m',10,0)">line 10</a>)
+    newton = newton - f(x0)/df(x0) ;
+} 
+newton(1,20,f,df)
+
+y =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+
+
+dy =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(10*x^4)+(4*x^3)+(15*x^2)+(-2)
+
+
+Root =
+
+   -5.6667
+
+f(-5.6667)
+
+y =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+
+
+ans =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+
+-f((5.6667))
+
+y =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+
+{Unary operator '-' is not supported for operand of type 'function_handle'.
+} 
+f((-5.6667))
+
+y =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+
+
+ans =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+
+@(-5.6667) (2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+ @(-5.6667) (2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3)
+   ↑
+{Invalid use of operator.
+} 
+f = @(x)(2*x^5)+(1*x^4)+(5*x^3)-(2*x)+(3);
+f(-5.6667)
+
+ans =
+
+  -1.1551e+04
+
+newton(1,20,f,df)
+
+dy =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)2*x
+
+
+Root =
+
+   -89
+
+newton(1,20,f,df)
+
+dy =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)2*x
+
+{Unrecognized function or variable 'y'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newton', 'C:\Users\husey\Desktop\MatlLab\Math381\newton.m', 11)" style="font-weight:bold">newton</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\newton.m',11,0)">line 11</a>)
+    y = y - f(x0)/df(x0) ;
+} 
+newton(1,20,f,df)
+
+dy =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)2*x
+
+{Unrecognized function or variable 'Root'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newton', 'C:\Users\husey\Desktop\MatlLab\Math381\newton.m', 15)" style="font-weight:bold">newton</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\newton.m',15,0)">line 15</a>)
+Root
+} 
+newton(1,20,f,df)
+
+dy =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)2*x
+
+{Unrecognized function or variable 'Root'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newton', 'C:\Users\husey\Desktop\MatlLab\Math381\newton.m', 15)" style="font-weight:bold">newton</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\MatlLab\Math381\newton.m',15,0)">line 15</a>)
+Root
+} 
+newton(1,20,f,df)
+
+dy =
+
+  <a href="matlab:helpPopup function_handle" style="font-weight:bold">function_handle</a> with value:
+
+    @(x)2*x
+
+
+y =
+
+   NaN
+
+
+ans =
+
+   NaN
+
+clear
+clear all
+mkdir Math_381_Lab-1_Project-1
+cd Math_381_Lab-1_Project-1\
+diary diary.txt

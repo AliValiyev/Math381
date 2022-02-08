@@ -1,0 +1,44 @@
+exer7(0.05)
+
+ans =
+
+   395
+
+numItsRequired=exer7(0.05)
+
+numItsRequired =
+
+   395
+
+help exer7
+ Ali Valiyev, Hüseyin Eren Demirtaş, Murathan Bilgen, Orhan Ashrafov; 12/07/2021
+ Exercise 7
+ takes as argument the desired tolerance and returns the number of iterations required to meet that tolerance.
+ k = <strong>exer7</strong>( tolerance )
+ the chosen tolerance value
+ bigger than TOLERANCE
+
+exer7(0.05)
+
+ans =
+
+   395
+
+exer7(0.1)
+
+ans =
+
+   198
+
+exer7(0.0125)
+
+ans =
+
+   784
+
+exer7(0.025)
+
+ans =
+
+   1580
+

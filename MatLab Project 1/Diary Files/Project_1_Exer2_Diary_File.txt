@@ -1,0 +1,134 @@
+"Starting Exercise 2"
+
+ans = 
+
+    "Starting Exercise 2"
+
+A = [1;2;3]
+
+A =
+
+     1
+     2
+     3
+
+B = [1
+2
+3]
+
+B =
+
+     1
+     2
+     3
+
+A == B
+
+ans =
+
+  3×1 <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a> array
+
+   1
+   1
+   1
+
+C = [1:10]
+
+C =
+
+     1     2     3     4     5     6     7     8     9    10
+
+D = linspace(20,60,6)
+
+D =
+
+    20    28    36    44    52    60
+
+linspace(1,100000000)
+
+ans =
+
+  Columns 1 through 10
+
+           1     1010102     2020203     3030304     4040405     5050506     6060607     7070708     8080809     9090910
+
+  Columns 11 through 20
+
+    10101011    11111112    12121213    13131314    14141415    15151516    16161617    17171718    18181819    19191920
+
+  Columns 21 through 30
+
+    20202021    21212122    22222223    23232324    24242425    25252526    26262627    27272728    28282829    29292930
+
+  Columns 31 through 40
+
+    30303031    31313132    32323233    33333334    34343435    35353536    36363637    37373738    38383839    39393940
+
+  Columns 41 through 50
+
+    40404041    41414142    42424243    43434344    44444445    45454546    46464647    47474748    48484849    49494950
+
+  Columns 51 through 60
+
+    50505051    51515152    52525253    53535354    54545455    55555556    56565657    57575758    58585859    59595960
+
+  Columns 61 through 70
+
+    60606061    61616162    62626263    63636364    64646465    65656566    66666667    67676768    68686869    69696970
+
+  Columns 71 through 80
+
+    70707071    71717172    72727273    73737374    74747475    75757576    76767677    77777778    78787879    79797980
+
+  Columns 81 through 90
+
+    80808081    81818182    82828283    83838384    84848485    85858586    86868687    87878788    88888889    89898990
+
+  Columns 91 through 100
+
+    90909091    91919192    92929293    93939394    94949495    95959596    96969697    97979798    98989899   100000000
+
+k = linspace(-1,1,1000);
+meshPoints = linspace(-1,1,1000);
+meshPoints(95)
+
+ans =
+
+   -0.8118
+
+length(meshPoints)
+
+ans =
+
+        1000
+
+numel(meshPoints)
+
+ans =
+
+        1000
+
+plot(meshPoints,sin(2*pi*meshPoints))
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more
+information, click <a href="matlab:opengl('problems')">here</a>.] 
+opengl('problems')
+opengl('problems')
+opengl('problems')
+plot(meshPoints,sin(2*pi*meshPoints))
+exer2.m
+{Unable to resolve the name exer2.m.
+} 
+uiopen('C:\Users\CASPER\Downloads\Matlab\Country Data.mlx',1)
+exer2
+{Error: <a href="matlab: opentoline('C:\Users\CASPER\Documents\MATLAB\math381\project1\exer2.m',6,7)">File: exer2.m Line: 6 Column: 7</a>
+Invalid expression. Check for missing or extra characters.
+} 
+exer2
+{<a href="matlab: opentoline('C:\Users\CASPER\Documents\MATLAB\math381\project1\exer2.m',22,11)">File: exer2.m Line: 22 Column: 11</a>
+Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched
+delimiters.
+} 
+
+clear
+
+diary off

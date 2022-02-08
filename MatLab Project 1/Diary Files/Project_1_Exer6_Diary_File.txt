@@ -1,0 +1,2 @@
+exer6
+Number of iterations =395
