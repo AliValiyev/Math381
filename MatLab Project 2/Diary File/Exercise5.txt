@@ -1,0 +1,175 @@
+[z,iterations] = [@cosmx, 0, 3)
+ [z,iterations] = [@cosmx, 0, 3)
+                               ↑
+{Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched
+delimiters.
+} 
+[z,iterations] = [@cosmx, 0, 3]
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('horzcat')" style="font-weight:bold">horzcat</a>
+The following error occurred converting from double to function_handle:
+Too many output arguments.
+} 
+[z,iterations] = (@cosmx, 0, 3)
+ [z,iterations] = (@cosmx, 0, 3)
+                         ↑
+{Invalid expression. When calling a function or indexing a variable, use parentheses. Otherwise, check for mismatched
+delimiters.
+} 
+[z, iterations] = bisect ( cosmx, 0, 3 )
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cosmx', 'C:\Users\CASPER\Documents\MATLAB\math381\project2\cosmx.m', 3)" style="font-weight:bold">cosmx</a> (<a href="matlab: opentoline('C:\Users\CASPER\Documents\MATLAB\math381\project2\cosmx.m',3,0)">line 3</a>)
+y = cos(x) - x;
+} 
+[z, iterations] = bisect ( f0, 0, 3 )
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('f0', 'C:\Users\CASPER\Documents\MATLAB\math381\project2\f0.m', 2)" style="font-weight:bold">f0</a> (<a href="matlab: opentoline('C:\Users\CASPER\Documents\MATLAB\math381\project2\f0.m',2,0)">line 2</a>)
+y = 1 - x;
+} 
+[z, iterations] = bisect ( f0, 0, 3 )
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('f0', 'C:\Users\CASPER\Documents\MATLAB\math381\project2\f0.m', 2)" style="font-weight:bold">f0</a> (<a href="matlab: opentoline('C:\Users\CASPER\Documents\MATLAB\math381\project2\f0.m',2,0)">line 2</a>)
+y = 1 - x;
+} 
+[z, iterations] = bisect ( @f0, 0, 3 )
+a=0, fa=1, x=1.5, fx=-0.5, b=3, fb=-2
+a=0, fa=1, x=0.75, fx=0.25, b=1.5, fb=-0.5
+a=0.75, fa=0.25, x=1.125, fx=-0.125, b=1.5, fb=-0.5
+a=0.75, fa=0.25, x=0.9375, fx=0.0625, b=1.125, fb=-0.125
+a=0.9375, fa=0.0625, x=1.0313, fx=-0.03125, b=1.125, fb=-0.125
+a=0.9375, fa=0.0625, x=0.98438, fx=0.015625, b=1.0313, fb=-0.03125
+a=0.98438, fa=0.015625, x=1.0078, fx=-0.0078125, b=1.0313, fb=-0.03125
+a=0.98438, fa=0.015625, x=0.99609, fx=0.0039063, b=1.0078, fb=-0.0078125
+a=0.99609, fa=0.0039063, x=1.002, fx=-0.0019531, b=1.0078, fb=-0.0078125
+a=0.99609, fa=0.0039063, x=0.99902, fx=0.00097656, b=1.002, fb=-0.0019531
+a=0.99902, fa=0.00097656, x=1.0005, fx=-0.00048828, b=1.002, fb=-0.0019531
+a=0.99902, fa=0.00097656, x=0.99976, fx=0.00024414, b=1.0005, fb=-0.00048828
+a=0.99976, fa=0.00024414, x=1.0001, fx=-0.00012207, b=1.0005, fb=-0.00048828
+a=0.99976, fa=0.00024414, x=0.99994, fx=6.1035e-05, b=1.0001, fb=-0.00012207
+a=0.99994, fa=6.1035e-05, x=1, fx=-3.0518e-05, b=1.0001, fb=-0.00012207
+a=0.99994, fa=6.1035e-05, x=0.99998, fx=1.5259e-05, b=1, fb=-3.0518e-05
+a=0.99998, fa=1.5259e-05, x=1, fx=-7.6294e-06, b=1, fb=-3.0518e-05
+a=0.99998, fa=1.5259e-05, x=1, fx=3.8147e-06, b=1, fb=-7.6294e-06
+a=1, fa=3.8147e-06, x=1, fx=-1.9073e-06, b=1, fb=-7.6294e-06
+a=1, fa=3.8147e-06, x=1, fx=9.5367e-07, b=1, fb=-1.9073e-06
+a=1, fa=9.5367e-07, x=1, fx=-4.7684e-07, b=1, fb=-1.9073e-06
+a=1, fa=9.5367e-07, x=1, fx=2.3842e-07, b=1, fb=-4.7684e-07
+a=1, fa=2.3842e-07, x=1, fx=-1.1921e-07, b=1, fb=-4.7684e-07
+a=1, fa=2.3842e-07, x=1, fx=5.9605e-08, b=1, fb=-1.1921e-07
+a=1, fa=5.9605e-08, x=1, fx=-2.9802e-08, b=1, fb=-1.1921e-07
+a=1, fa=5.9605e-08, x=1, fx=1.4901e-08, b=1, fb=-2.9802e-08
+a=1, fa=1.4901e-08, x=1, fx=-7.4506e-09, b=1, fb=-2.9802e-08
+a=1, fa=1.4901e-08, x=1, fx=3.7253e-09, b=1, fb=-7.4506e-09
+a=1, fa=3.7253e-09, x=1, fx=-1.8626e-09, b=1, fb=-7.4506e-09
+a=1, fa=3.7253e-09, x=1, fx=9.3132e-10, b=1, fb=-1.8626e-09
+a=1, fa=9.3132e-10, x=1, fx=-4.6566e-10, b=1, fb=-1.8626e-09
+a=1, fa=9.3132e-10, x=1, fx=2.3283e-10, b=1, fb=-4.6566e-10
+a=1, fa=2.3283e-10, x=1, fx=-1.1642e-10, b=1, fb=-4.6566e-10
+a=1, fa=2.3283e-10, x=1, fx=5.8208e-11, b=1, fb=-1.1642e-10
+a=1, fa=5.8208e-11, x=1, fx=-2.9104e-11, b=1, fb=-1.1642e-10
+
+z =
+
+    1.0000
+
+
+iterations =
+
+    35
+
+[z, iterations] = bisect ( @(x) 1-x, 0, 3 )
+a=0, fa=1, x=1.5, fx=-0.5, b=3, fb=-2
+a=0, fa=1, x=0.75, fx=0.25, b=1.5, fb=-0.5
+a=0.75, fa=0.25, x=1.125, fx=-0.125, b=1.5, fb=-0.5
+a=0.75, fa=0.25, x=0.9375, fx=0.0625, b=1.125, fb=-0.125
+a=0.9375, fa=0.0625, x=1.0313, fx=-0.03125, b=1.125, fb=-0.125
+a=0.9375, fa=0.0625, x=0.98438, fx=0.015625, b=1.0313, fb=-0.03125
+a=0.98438, fa=0.015625, x=1.0078, fx=-0.0078125, b=1.0313, fb=-0.03125
+a=0.98438, fa=0.015625, x=0.99609, fx=0.0039063, b=1.0078, fb=-0.0078125
+a=0.99609, fa=0.0039063, x=1.002, fx=-0.0019531, b=1.0078, fb=-0.0078125
+a=0.99609, fa=0.0039063, x=0.99902, fx=0.00097656, b=1.002, fb=-0.0019531
+a=0.99902, fa=0.00097656, x=1.0005, fx=-0.00048828, b=1.002, fb=-0.0019531
+a=0.99902, fa=0.00097656, x=0.99976, fx=0.00024414, b=1.0005, fb=-0.00048828
+a=0.99976, fa=0.00024414, x=1.0001, fx=-0.00012207, b=1.0005, fb=-0.00048828
+a=0.99976, fa=0.00024414, x=0.99994, fx=6.1035e-05, b=1.0001, fb=-0.00012207
+a=0.99994, fa=6.1035e-05, x=1, fx=-3.0518e-05, b=1.0001, fb=-0.00012207
+a=0.99994, fa=6.1035e-05, x=0.99998, fx=1.5259e-05, b=1, fb=-3.0518e-05
+a=0.99998, fa=1.5259e-05, x=1, fx=-7.6294e-06, b=1, fb=-3.0518e-05
+a=0.99998, fa=1.5259e-05, x=1, fx=3.8147e-06, b=1, fb=-7.6294e-06
+a=1, fa=3.8147e-06, x=1, fx=-1.9073e-06, b=1, fb=-7.6294e-06
+a=1, fa=3.8147e-06, x=1, fx=9.5367e-07, b=1, fb=-1.9073e-06
+a=1, fa=9.5367e-07, x=1, fx=-4.7684e-07, b=1, fb=-1.9073e-06
+a=1, fa=9.5367e-07, x=1, fx=2.3842e-07, b=1, fb=-4.7684e-07
+a=1, fa=2.3842e-07, x=1, fx=-1.1921e-07, b=1, fb=-4.7684e-07
+a=1, fa=2.3842e-07, x=1, fx=5.9605e-08, b=1, fb=-1.1921e-07
+a=1, fa=5.9605e-08, x=1, fx=-2.9802e-08, b=1, fb=-1.1921e-07
+a=1, fa=5.9605e-08, x=1, fx=1.4901e-08, b=1, fb=-2.9802e-08
+a=1, fa=1.4901e-08, x=1, fx=-7.4506e-09, b=1, fb=-2.9802e-08
+a=1, fa=1.4901e-08, x=1, fx=3.7253e-09, b=1, fb=-7.4506e-09
+a=1, fa=3.7253e-09, x=1, fx=-1.8626e-09, b=1, fb=-7.4506e-09
+a=1, fa=3.7253e-09, x=1, fx=9.3132e-10, b=1, fb=-1.8626e-09
+a=1, fa=9.3132e-10, x=1, fx=-4.6566e-10, b=1, fb=-1.8626e-09
+a=1, fa=9.3132e-10, x=1, fx=2.3283e-10, b=1, fb=-4.6566e-10
+a=1, fa=2.3283e-10, x=1, fx=-1.1642e-10, b=1, fb=-4.6566e-10
+a=1, fa=2.3283e-10, x=1, fx=5.8208e-11, b=1, fb=-1.1642e-10
+a=1, fa=5.8208e-11, x=1, fx=-2.9104e-11, b=1, fb=-1.1642e-10
+
+z =
+
+    1.0000
+
+
+iterations =
+
+    35
+
+f0=@(x) 1-x;
+[z, iterations] = bisect ( f0, 0, 3 )
+a=0, fa=1, x=1.5, fx=-0.5, b=3, fb=-2
+a=0, fa=1, x=0.75, fx=0.25, b=1.5, fb=-0.5
+a=0.75, fa=0.25, x=1.125, fx=-0.125, b=1.5, fb=-0.5
+a=0.75, fa=0.25, x=0.9375, fx=0.0625, b=1.125, fb=-0.125
+a=0.9375, fa=0.0625, x=1.0313, fx=-0.03125, b=1.125, fb=-0.125
+a=0.9375, fa=0.0625, x=0.98438, fx=0.015625, b=1.0313, fb=-0.03125
+a=0.98438, fa=0.015625, x=1.0078, fx=-0.0078125, b=1.0313, fb=-0.03125
+a=0.98438, fa=0.015625, x=0.99609, fx=0.0039063, b=1.0078, fb=-0.0078125
+a=0.99609, fa=0.0039063, x=1.002, fx=-0.0019531, b=1.0078, fb=-0.0078125
+a=0.99609, fa=0.0039063, x=0.99902, fx=0.00097656, b=1.002, fb=-0.0019531
+a=0.99902, fa=0.00097656, x=1.0005, fx=-0.00048828, b=1.002, fb=-0.0019531
+a=0.99902, fa=0.00097656, x=0.99976, fx=0.00024414, b=1.0005, fb=-0.00048828
+a=0.99976, fa=0.00024414, x=1.0001, fx=-0.00012207, b=1.0005, fb=-0.00048828
+a=0.99976, fa=0.00024414, x=0.99994, fx=6.1035e-05, b=1.0001, fb=-0.00012207
+a=0.99994, fa=6.1035e-05, x=1, fx=-3.0518e-05, b=1.0001, fb=-0.00012207
+a=0.99994, fa=6.1035e-05, x=0.99998, fx=1.5259e-05, b=1, fb=-3.0518e-05
+a=0.99998, fa=1.5259e-05, x=1, fx=-7.6294e-06, b=1, fb=-3.0518e-05
+a=0.99998, fa=1.5259e-05, x=1, fx=3.8147e-06, b=1, fb=-7.6294e-06
+a=1, fa=3.8147e-06, x=1, fx=-1.9073e-06, b=1, fb=-7.6294e-06
+a=1, fa=3.8147e-06, x=1, fx=9.5367e-07, b=1, fb=-1.9073e-06
+a=1, fa=9.5367e-07, x=1, fx=-4.7684e-07, b=1, fb=-1.9073e-06
+a=1, fa=9.5367e-07, x=1, fx=2.3842e-07, b=1, fb=-4.7684e-07
+a=1, fa=2.3842e-07, x=1, fx=-1.1921e-07, b=1, fb=-4.7684e-07
+a=1, fa=2.3842e-07, x=1, fx=5.9605e-08, b=1, fb=-1.1921e-07
+a=1, fa=5.9605e-08, x=1, fx=-2.9802e-08, b=1, fb=-1.1921e-07
+a=1, fa=5.9605e-08, x=1, fx=1.4901e-08, b=1, fb=-2.9802e-08
+a=1, fa=1.4901e-08, x=1, fx=-7.4506e-09, b=1, fb=-2.9802e-08
+a=1, fa=1.4901e-08, x=1, fx=3.7253e-09, b=1, fb=-7.4506e-09
+a=1, fa=3.7253e-09, x=1, fx=-1.8626e-09, b=1, fb=-7.4506e-09
+a=1, fa=3.7253e-09, x=1, fx=9.3132e-10, b=1, fb=-1.8626e-09
+a=1, fa=9.3132e-10, x=1, fx=-4.6566e-10, b=1, fb=-1.8626e-09
+a=1, fa=9.3132e-10, x=1, fx=2.3283e-10, b=1, fb=-4.6566e-10
+a=1, fa=2.3283e-10, x=1, fx=-1.1642e-10, b=1, fb=-4.6566e-10
+a=1, fa=2.3283e-10, x=1, fx=5.8208e-11, b=1, fb=-1.1642e-10
+a=1, fa=5.8208e-11, x=1, fx=-2.9104e-11, b=1, fb=-1.1642e-10
+
+z =
+
+    1.0000
+
+
+iterations =
+
+    35
+
+diary off
