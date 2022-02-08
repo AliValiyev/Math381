@@ -1,0 +1,818 @@
+diary exer2.txt
+x1 = [4;6;7];
+x2 = [7;5;6];
+x3 = [1;5;4];
+A1 = [38 37 80;53 49 49;23 85 46]; 
+A2 = [77 89 78;6 34 10;65 36 26];
+
+Norms(A1,x1,1,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x1,1,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x1,1,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x1,2,1)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A1,x1,2,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x1,2,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x1,inf,1)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A1,x1,inf,2)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A1,x1,inf,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,1,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,1,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,1,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,2,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,2,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,2,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,inf,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,inf,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x2,inf,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x3,1,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x3,1,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x3,1,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x3,2,1)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A1,x3,2,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x3,2,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x3,inf,1)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A1,x3,inf,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A1,x3,inf,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x1,1,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x1,1,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x1,1,inf)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A2,x1,2,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x1,2,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x1,2,inf)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A2,x1,inf,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x1,inf,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x1,inf,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x2,1,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x2,1,2)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A2,x2,1,inf)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A2,x2,2,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x2,2,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x2,2,inf)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A2,x2,inf,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x2,inf,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x2,inf,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x3,1,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x3,1,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x3,1,inf)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A2,x3,2,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x3,2,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x3,2,inf)
+U
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   0
+
+Norms(A2,x3,inf,1)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x3,inf,2)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+Norms(A2,x3,inf,inf)
+S
+
+ans =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+r_p_q(A1,x1,1,1)
+
+ans =
+
+    0.9099
+
+r_p_q(A1,x1,1,2)
+
+ans =
+
+    0.8894
+
+r_p_q(A1,x1,1,inf)
+
+ans =
+
+    0.7624
+
+r_p_q(A1,x1,2,1)
+
+ans =
+
+    1.0210
+
+r_p_q(A1,x1,2,2)
+
+ans =
+
+    0.9980
+
+r_p_q(A1,x1,2,inf)
+
+ans =
+
+    0.8555
+
+r_p_q(A1,x1,inf,1)
+
+ans =
+
+    1.0273
+
+r_p_q(A1,x1,inf,2)
+
+ans =
+
+    1.0042
+
+r_p_q(A1,x1,inf,inf)
+
+ans =
+
+    0.8608
+
+r_p_q(A1,x2,1,1)
+
+ans =
+
+    0.8581
+
+r_p_q(A1,x2,1,2)
+
+ans =
+
+    0.8507
+
+r_p_q(A1,x2,1,inf)
+
+ans =
+
+    0.7600
+
+r_p_q(A1,x2,2,1)
+
+ans =
+
+    0.9628
+
+r_p_q(A1,x2,2,2)
+
+ans =
+
+    0.9545
+
+r_p_q(A1,x2,2,inf)
+
+ans =
+
+    0.8528
+
+r_p_q(A1,x2,inf,1)
+
+ans =
+
+    0.9688
+
+r_p_q(A1,x2,inf,2)
+
+ans =
+
+    0.9605
+
+r_p_q(A1,x2,inf,inf)
+
+ans =
+
+    0.8581
+
+r_p_q(A1,x3,1,1)
+
+ans =
+
+    0.9537
+
+r_p_q(A1,x3,1,2)
+
+ans =
+
+    0.8541
+
+r_p_q(A1,x3,1,inf)
+
+ans =
+
+    0.7223
+
+r_p_q(A1,x3,2,1)
+
+ans =
+
+    1.0701
+
+r_p_q(A1,x3,2,2)
+
+ans =
+
+    0.9583
+
+r_p_q(A1,x3,2,inf)
+
+ans =
+
+    0.8104
+
+r_p_q(A1,x3,inf,1)
+
+ans =
+
+    1.0768
+
+r_p_q(A1,x3,inf,2)
+
+ans =
+
+    0.9643
+
+r_p_q(A1,x3,inf,inf)
+
+ans =
+
+    0.8155
+
+r_p_q(A2,x1,1,1)
+
+ans =
+
+    0.8672
+
+r_p_q(A2,x1,1,2)
+
+ans =
+
+    0.9792
+
+r_p_q(A2,x1,1,inf)
+
+ans =
+
+    1.2471
+
+r_p_q(A2,x1,2,1)
+
+ans =
+
+    0.8509
+
+r_p_q(A2,x1,2,2)
+
+ans =
+
+    0.9608
+
+r_p_q(A2,x1,2,inf)
+
+ans =
+
+    1.2236
+
+r_p_q(A2,x1,inf,1)
+
+ans =
+
+    0.5651
+
+r_p_q(A2,x1,inf,2)
+
+ans =
+
+    0.6381
+
+r_p_q(A2,x1,inf,inf)
+
+ans =
+
+    0.8126
+
+r_p_q(A2,x2,1,1)
+
+ans =
+
+    0.8788
+
+r_p_q(A2,x2,1,2)
+
+ans =
+
+    1.0049
+
+r_p_q(A2,x2,1,inf)
+
+ans =
+
+    1.3046
+
+r_p_q(A2,x2,2,1)
+
+ans =
+
+    0.8622
+
+r_p_q(A2,x2,2,2)
+
+ans =
+
+    0.9860
+
+r_p_q(A2,x2,2,inf)
+
+ans =
+
+    1.2801
+
+r_p_q(A2,x2,inf,1)
+
+ans =
+
+    0.5726
+
+r_p_q(A2,x2,inf,2)
+
+ans =
+
+    0.6548
+
+r_p_q(A2,x2,inf,inf)
+
+ans =
+
+    0.8501
+
+r_p_q(A2,x3,1,1)
+
+ans =
+
+    0.8799
+
+r_p_q(A2,x3,1,2)
+
+ans =
+
+    0.9021
+
+r_p_q(A2,x3,1,inf)
+
+ans =
+
+    1.0491
+
+r_p_q(A2,x3,2,1)
+
+ans =
+
+    0.8633
+
+r_p_q(A2,x3,2,2)
+
+ans =
+
+    0.8851
+
+r_p_q(A2,x3,2,inf)
+
+ans =
+
+    1.0293
+
+r_p_q(A2,x3,inf,1)
+
+ans =
+
+    0.5734
+
+r_p_q(A2,x3,inf,2)
+
+ans =
+
+    0.5878
+
+r_p_q(A2,x3,inf,inf)
+
+ans =
+
+    0.6836
+
+diary off

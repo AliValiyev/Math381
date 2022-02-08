@@ -1,0 +1,97 @@
+exer4
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('exer4', 'C:\Users\husey\Desktop\exer4.m', 5)" style="font-weight:bold">exer4</a> (<a href="matlab: opentoline('C:\Users\husey\Desktop\exer4.m',5,0)">line 5</a>)
+if mod(n,2)==0
+} 
+exer4(161)
+
+ans =
+
+    0.0013
+
+exer4(161)
+
+ans =
+
+    0.0011
+
+exer4(321)
+
+ans =
+
+    0.0116
+
+exer4(641)
+
+ans =
+
+    0.0158
+
+exer4(1281)
+
+ans =
+
+    0.0670
+
+exer4(2561)
+
+ans =
+
+    0.3141
+
+exer4(5121)
+
+ans =
+
+    2.1050
+
+exer4(10241)
+
+ans =
+
+   14.5561
+
+161/0.0011
+
+ans =
+
+   1.4636e+05
+
+321/0.0116
+
+ans =
+
+   2.7672e+04
+
+641/0.0158
+
+ans =
+
+   4.0570e+04
+
+1281/0.0670
+
+ans =
+
+   1.9119e+04
+
+2561/0.3141
+
+ans =
+
+   8.1535e+03
+
+5121/2.1050
+
+ans =
+
+   2.4328e+03
+
+10241/14.5561
+
+ans =
+
+  703.5538
+
+diary off

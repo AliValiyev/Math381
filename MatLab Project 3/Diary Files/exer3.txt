@@ -1,0 +1,158 @@
+A_1=[1 1; 1 (1-10^(-12))];
+b_1=[0;0];
+xApprox_1=[1;-1];
+
+residual_error_1=norm(A_1*xApprox_1-b_1, 'fro')
+
+residual_error_1 =
+
+   9.9998e-13
+
+small_1_residual=residual_error_1<0.01
+
+small_1_residual =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+xTrue_1=linsolve(A_1,b_1)
+
+xTrue_1 =
+
+     0
+     0
+
+solution_error_1=norm(xApprox_1-xTrue_1, 'fro')
+
+solution_error_1 =
+
+    1.4142
+
+large_1_solution=solution_error_1>1
+
+large_1_solution =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+
+A_2=[1 1; 1 (1-10^(-12))];
+b_2=[1;1];
+xApprox_2=[1.00001;0];
+
+residual_error_2=norm(A_2*xApprox_2-b_2, 'fro')
+
+residual_error_2 =
+
+   1.4142e-05
+
+small_2_residual=residual_error_2<0.01
+
+small_2_residual =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+xTrue_2=linsolve(A_2,b_2)
+
+xTrue_2 =
+
+     1
+     0
+
+solution_error_2=norm(xApprox_2-xTrue_2, 'fro')
+
+solution_error_2 =
+
+   1.0000e-05
+
+small_2_solution=solution_error_2<0.01  %to test if corresponding error is small or not. Note that 1 means True, 0 means False in Matlab
+
+small_2_solution =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+A_3=[1 1; 1 (1-10^(-12))];
+b_3=[1;1];
+xApprox_3=[100;100];
+
+residual_error_3=norm(A_3*xApprox_3-b_3, 'fro')
+
+residual_error_3 =
+
+  281.4285
+
+large_3_residual=residual_error_3>1  %to test if corresponding error is large or not. Note that 1 means True, 0 means False in Matlab
+
+large_3_residual =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+xTrue_3=linsolve(A_3,b_3)
+
+xTrue_3 =
+
+     1
+     0
+
+solution_error_3=norm(xApprox_3-xTrue_3, 'fro')
+
+solution_error_3 =
+
+  140.7160
+
+large_3_solution=solution_error_3>1
+
+large_3_solution =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+A_4=[10^12 -10^12; 1,1];
+b_4=[0;2];
+xApprox_4=[1.001;1];
+
+residual_error_4=norm(A_4*xApprox_4-b_4, 'fro')
+
+residual_error_4 =
+
+   1.0000e+09
+
+large_4_residual=residual_error_4>1
+
+large_4_residual =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+xTrue_4=linsolve(A_4,b_4)
+
+xTrue_4 =
+
+     1
+     1
+
+solution_error_4=norm(xApprox_4-xTrue_4, 'fro')
+
+solution_error_4 =
+
+   1.0000e-03
+
+small_4_solution=solution_error_4<0.01
+
+small_4_solution =
+
+  <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+
+   1
+
+diary off

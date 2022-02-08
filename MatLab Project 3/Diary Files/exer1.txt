@@ -1,0 +1,81 @@
+diary exer1.txt
+x1 = [4;6;7]
+
+x1 =
+
+     4
+     6
+     7
+
+x2 = [7;5;6]
+
+x2 =
+
+     7
+     5
+     6
+
+x3 = [1;5;4]
+
+x3 =
+
+     1
+     5
+     4
+
+format long
+norm(x1,1)
+
+ans =
+
+    17
+
+norm(x2,1)
+
+ans =
+
+    18
+
+norm(x3,1)
+
+ans =
+
+    10
+
+norm(x1,2)
+
+ans =
+
+  10.049875621120890
+
+norm(x2,2)
+
+ans =
+
+  10.488088481701515
+
+norm(x3,2)
+
+ans =
+
+   6.480740698407860
+
+norm(x1,inf)
+
+ans =
+
+     7
+
+norm(x2,inf)
+
+ans =
+
+     7
+
+norm(x3,inf)
+
+ans =
+
+     5
+
+diary off
